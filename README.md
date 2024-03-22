@@ -1,5 +1,3 @@
-# Project #2 - Shopping List App
-
 ## Ghars plants shop app 
 This application offer different kinds of plants to sale. 🪴
 
